@@ -1,0 +1,64 @@
+{
+  "masters": [
+    {
+      "id": "master_1",
+      "name": "Emma Thompson",
+      "specialization": "Hair Stylist",
+      "experience": 8,
+      "rating": 4.9,
+      "bio": "Expert in modern haircuts and coloring techniques. Specializes in balayage and creative styling.",
+      "imageName": "girl1",
+      "services": ["service_1", "service_2", "service_3"]
+    },
+    {
+      "id": "master_2",
+      "name": "Sophia Martinez",
+      "specialization": "Nail Artist",
+      "experience": 6,
+      "rating": 4.8,
+      "bio": "Creative nail artist with expertise in gel manicures, nail art, and pedicure services.",
+      "imageName": "girl2",
+      "services": ["service_4", "service_5"]
+    },
+    {
+      "id": "master_3",
+      "name": "Olivia Johnson",
+      "specialization": "Skincare Specialist",
+      "experience": 10,
+      "rating": 5.0,
+      "bio": "Certified esthetician with extensive knowledge in facial treatments and skincare routines.",
+      "imageName": "girl3",
+      "services": ["service_6"]
+    },
+    {
+      "id": "master_4",
+      "name": "Isabella Brown",
+      "specialization": "Brow & Lash Expert",
+      "experience": 7,
+      "rating": 4.9,
+      "bio": "Specialist in eyebrow shaping and eyelash extensions. Known for natural and beautiful results.",
+      "imageName": "girl4",
+      "services": ["service_7", "service_8"]
+    },
+    {
+      "id": "master_5",
+      "name": "Ava Davis",
+      "specialization": "Makeup Artist",
+      "experience": 9,
+      "rating": 4.9,
+      "bio": "Professional makeup artist for weddings, events, and editorial shoots. Expert in all makeup styles.",
+      "imageName": "girl5",
+      "services": ["service_9"]
+    },
+    {
+      "id": "master_6",
+      "name": "Mia Wilson",
+      "specialization": "Waxing Specialist",
+      "experience": 5,
+      "rating": 4.7,
+      "bio": "Experienced waxing specialist providing comfortable and efficient hair removal services.",
+      "imageName": "girl6",
+      "services": ["service_10"]
+    }
+  ]
+}

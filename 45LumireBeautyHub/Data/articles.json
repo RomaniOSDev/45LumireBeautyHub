@@ -1,0 +1,64 @@
+{
+  "articles": [
+    {
+      "id": "article_1",
+      "title": "10 Essential Skincare Tips for Glowing Skin",
+      "author": "Olivia Johnson",
+      "date": "2024-01-15",
+      "content": "Achieving glowing skin is easier than you think! Here are 10 essential tips that will transform your skincare routine. First, always cleanse your face twice a day - morning and night. Use a gentle cleanser that suits your skin type. Second, never skip sunscreen, even on cloudy days. UV protection is crucial for preventing premature aging. Third, hydrate your skin with a good moisturizer. Fourth, exfoliate regularly but not too often - 2-3 times a week is ideal. Fifth, drink plenty of water to keep your skin hydrated from within. Sixth, get enough sleep - your skin repairs itself while you sleep. Seventh, eat a balanced diet rich in antioxidants. Eighth, avoid touching your face throughout the day. Ninth, remove makeup before bed - never sleep with makeup on! Tenth, be consistent with your routine - results take time. Follow these tips and you'll see a noticeable difference in your skin's appearance and health.",
+      "category": "Skincare",
+      "imageNames": ["girl1", "girl2", "girl3"],
+      "tags": ["skincare", "beauty", "tips", "routine"]
+    },
+    {
+      "id": "article_2",
+      "title": "The Ultimate Guide to Hair Coloring Techniques",
+      "author": "Emma Thompson",
+      "date": "2024-01-10",
+      "content": "Hair coloring has evolved tremendously over the years. Today, there are numerous techniques to achieve the perfect color. Balayage is a freehand technique that creates natural-looking highlights. Ombre creates a gradient effect from dark to light. Highlights add dimension and brightness to your hair. Full color provides complete coverage and transformation. When choosing a color, consider your skin tone and natural hair color. Warm skin tones look great with golden and copper tones, while cool skin tones suit ash and platinum shades. Maintenance is key - use color-safe shampoos and conditioners, avoid excessive heat styling, and schedule regular touch-ups. Always consult with a professional colorist to achieve the best results.",
+      "category": "Hair",
+      "imageNames": ["girl2", "girl3", "girl4"],
+      "tags": ["hair", "coloring", "balayage", "styling"]
+    },
+    {
+      "id": "article_3",
+      "title": "Nail Art Trends for 2024",
+      "author": "Sophia Martinez",
+      "date": "2024-01-05",
+      "content": "Nail art continues to be a major trend in 2024. This year, we're seeing minimalist designs, bold geometric patterns, and nature-inspired motifs. French manicures are making a comeback with colorful twists. Negative space designs are popular for a modern look. Metallic accents add glamour to any design. Gradient nails create a beautiful ombre effect. Floral patterns bring a touch of elegance. Abstract art allows for creative expression. When creating nail art, start with a good base coat, use quality polishes, and finish with a top coat for longevity. Don't be afraid to experiment and express your personal style!",
+      "category": "Nails",
+      "imageNames": ["girl4", "girl5", "girl6"],
+      "tags": ["nails", "nail art", "trends", "manicure"]
+    },
+    {
+      "id": "article_4",
+      "title": "How to Choose the Perfect Eyebrow Shape",
+      "author": "Isabella Brown",
+      "date": "2023-12-28",
+      "content": "Your eyebrows frame your face and can dramatically change your appearance. Choosing the right shape is essential. First, determine your face shape - oval, round, square, heart, or long. Oval faces suit most eyebrow shapes. Round faces benefit from angled brows. Square faces look great with soft, rounded brows. Heart-shaped faces need brows with a soft arch. Long faces should avoid high arches. The golden ratio method helps find your ideal brow shape. Measure from the outer edge of your nose to the inner corner of your eye - this is where your brow should start. The arch should be at the outer edge of your iris. The brow should end at an angle from your nose to the outer corner of your eye. Regular maintenance keeps your brows looking perfect. Consider professional shaping for the best results.",
+      "category": "Brows",
+      "imageNames": ["girl5", "girl6", "girl7"],
+      "tags": ["eyebrows", "beauty", "shaping", "tips"]
+    },
+    {
+      "id": "article_5",
+      "title": "Makeup Tips for Every Occasion",
+      "author": "Ava Davis",
+      "date": "2023-12-20",
+      "content": "Makeup should enhance your natural beauty and suit the occasion. For everyday makeup, keep it light and natural. Use a tinted moisturizer or light foundation, add a touch of mascara, and a natural lip color. For work, opt for a polished look with neutral tones. Evening events call for more dramatic makeup - smoky eyes, bold lips, and highlighted features. Wedding makeup should be long-lasting and photograph well. Always start with a good skincare routine and primer. Blend everything well for a seamless finish. Don't forget to set your makeup with powder or setting spray. Remember, less is often more - build up coverage gradually. Practice makes perfect, so experiment with different looks to find what works best for you.",
+      "category": "Makeup",
+      "imageNames": ["girl6", "girl7", "girl8"],
+      "tags": ["makeup", "beauty", "tips", "tutorial"]
+    },
+    {
+      "id": "article_6",
+      "title": "Winter Hair Care: Protecting Your Hair from the Cold",
+      "author": "Emma Thompson",
+      "date": "2023-12-15",
+      "content": "Winter weather can be harsh on your hair. Cold temperatures, dry air, and indoor heating can cause damage and dryness. Protect your hair with these essential tips. First, reduce washing frequency - aim for 2-3 times a week. Use a moisturizing shampoo and conditioner. Deep condition weekly to restore moisture. Avoid excessive heat styling - let your hair air dry when possible. When using heat tools, always apply a heat protectant. Wear a hat or scarf to protect your hair from cold winds. Trim your hair regularly to prevent split ends. Use leave-in conditioners and hair oils to add moisture. Avoid tight hairstyles that can cause breakage. Stay hydrated and maintain a healthy diet. With proper care, your hair can stay healthy and beautiful all winter long.",
+      "category": "Hair",
+      "imageNames": ["girl7", "girl8", "girl1"],
+      "tags": ["hair", "winter", "care", "tips"]
+    }
+  ]
+}

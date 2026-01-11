@@ -1,0 +1,94 @@
+{
+  "services": [
+    {
+      "id": "service_1",
+      "name": "Haircut & Styling",
+      "description": "Professional haircut and styling service tailored to your preferences and face shape.",
+      "price": 45.0,
+      "duration": 60,
+      "category": "Hair",
+      "imageName": "haircut"
+    },
+    {
+      "id": "service_2",
+      "name": "Hair Coloring",
+      "description": "Expert hair coloring services including highlights, balayage, and full color transformation.",
+      "price": 120.0,
+      "duration": 180,
+      "category": "Hair",
+      "imageName": "coloring"
+    },
+    {
+      "id": "service_3",
+      "name": "Hair Treatment",
+      "description": "Deep conditioning and repair treatments for damaged and dry hair.",
+      "price": 65.0,
+      "duration": 90,
+      "category": "Hair",
+      "imageName": "treatment"
+    },
+    {
+      "id": "service_4",
+      "name": "Manicure",
+      "description": "Classic and gel manicure with nail art options available.",
+      "price": 35.0,
+      "duration": 45,
+      "category": "Nails",
+      "imageName": "manicure"
+    },
+    {
+      "id": "service_5",
+      "name": "Pedicure",
+      "description": "Relaxing pedicure service with foot massage and nail care.",
+      "price": 40.0,
+      "duration": 60,
+      "category": "Nails",
+      "imageName": "pedicure"
+    },
+    {
+      "id": "service_6",
+      "name": "Facial Treatment",
+      "description": "Deep cleansing facial treatment for all skin types with personalized care.",
+      "price": 80.0,
+      "duration": 75,
+      "category": "Skincare",
+      "imageName": "facial"
+    },
+    {
+      "id": "service_7",
+      "name": "Eyebrow Shaping",
+      "description": "Professional eyebrow shaping and tinting to enhance your natural beauty.",
+      "price": 25.0,
+      "duration": 30,
+      "category": "Brows",
+      "imageName": "eyebrows"
+    },
+    {
+      "id": "service_8",
+      "name": "Eyelash Extensions",
+      "description": "Premium eyelash extensions for voluminous and natural-looking lashes.",
+      "price": 150.0,
+      "duration": 120,
+      "category": "Lashes",
+      "imageName": "lashes"
+    },
+    {
+      "id": "service_9",
+      "name": "Makeup Application",
+      "description": "Professional makeup application for special events and everyday looks.",
+      "price": 70.0,
+      "duration": 90,
+      "category": "Makeup",
+      "imageName": "makeup"
+    },
+    {
+      "id": "service_10",
+      "name": "Waxing",
+      "description": "Full body and facial waxing services for smooth, hair-free skin.",
+      "price": 50.0,
+      "duration": 45,
+      "category": "Waxing",
+      "imageName": "waxing"
+    }
+  ]
+}
