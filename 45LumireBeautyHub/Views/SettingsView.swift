@@ -30,7 +30,7 @@ struct SettingsView: View {
                         iconColor: .appPrimary,
                         title: "Privacy Policy",
                         action: {
-                            openURL("https://example.com/privacy-policy")
+                            openURL("https://www.termsfeed.com/live/f84260c9-b92b-436a-bc0a-e7ff386c866c")
                         }
                     )
                     
@@ -39,7 +39,7 @@ struct SettingsView: View {
                         iconColor: .appPrimary,
                         title: "Terms of Service",
                         action: {
-                            openURL("https://example.com/terms-of-service")
+                            openURL("https://www.termsfeed.com/live/618dc7a5-872c-4f29-9601-0e77aa914cc4")
                         }
                     )
                 }

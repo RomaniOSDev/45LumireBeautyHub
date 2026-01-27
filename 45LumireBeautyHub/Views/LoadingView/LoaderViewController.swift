@@ -54,7 +54,7 @@ class LoadingSplash: UIViewController {
 
     private func proceedWithFlow() {
         
-        let checkURL = "https://futuretechprotocol.site/SHxnmq"
+        let checkURL = "https://datasecuritycore.online/site"
         
         
         CheckURLService.checkURLStatus(urlString: checkURL) { [weak self] is200 in
